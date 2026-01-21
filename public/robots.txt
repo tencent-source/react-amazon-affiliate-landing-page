@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tencent-source.github.io/react-amazon-affiliate-landing-page/sitemap.xml
